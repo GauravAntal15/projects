@@ -14,7 +14,8 @@
 | 8     | Hadoop                                                       | https://github.com/sahilobhrai/hadoop              |
 | 9     | Scala                                                        | https://github.com/sahilobhrai/scala          |
 | 10    | House Price Prediction                                       | https://github.com/sahilobhrai/House-Price-Prediction             |
-| 11    | Flash Games using Python                                      | https://github.com/sahilobhrai/flash-games             |
+| 11    | Flash Games using Python                                     | https://github.com/sahilobhrai/flash-games             |
+| 12    | Outlier Detection using Python                               | https://github.com/sahilobhrai/Outlier-Detection            |
 
 
 
