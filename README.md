@@ -18,7 +18,7 @@
 | 12    | Outlier Detection using Python                               | https://github.com/sahilobhrai/Outlier-Detection            |
 | 13   | Password Generator and Cracker using Python                   | https://github.com/sahilobhrai/Password-Generator-and-Cracker-using-Python            |
 | 14   | Digital Clock using Python                                    | https://github.com/sahilobhrai/Digital-Clock-using-Python            |
-| 15   |                                 |            |
+| 15   |            Web Development                     |      https://github.com/sahilobhrai/Web-Development      |
 
 
 ***More Projects coming...!!!***
