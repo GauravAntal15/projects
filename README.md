@@ -16,9 +16,9 @@
 | 10    | House Price Prediction                                       | https://github.com/sahilobhrai/House-Price-Prediction             |
 | 11    | Flash Games using Python                                     | https://github.com/sahilobhrai/flash-games             |
 | 12    | Outlier Detection using Python                               | https://github.com/sahilobhrai/Outlier-Detection            |
-| 13   | Password Generator and Cracker using Python                   | https://github.com/sahilobhrai/Password-Generator-and-Cracker-using-Python            |
-| 14   | Digital Clock using Python                                    | https://github.com/sahilobhrai/Digital-Clock-using-Python            |
-| 15   |            Web Development                     |      https://github.com/sahilobhrai/Web-Development      |
+| 13    | Password Generator and Cracker using Python                  | https://github.com/sahilobhrai/Password-Generator-and-Cracker-using-Python            |
+| 14    | Digital Clock using Python                                   | https://github.com/sahilobhrai/Digital-Clock-using-Python            |
+| 15    |            Web Development                                   |     https://github.com/sahilobhrai/Web-Development/tree/main/Web%20Page     |
 
 
 ***More Projects coming...!!!***
