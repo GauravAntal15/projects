@@ -20,8 +20,8 @@
 | 14    | Password Generator and Cracker using Python                  | https://github.com/sahilobhrai/Password-Generator-and-Cracker-using-Python            |
 | 15    | Digital Clock using Python                                   | https://github.com/sahilobhrai/Digital-Clock-using-Python            |
 | 16    | My First Webpage using HTML, CSS & Bootstrap                 | https://github.com/sahilobhrai/My-First-Webpage |
-| 17    |    Gym website using HTML & CSS                              | https://github.com/sahilobhrai/Gym-website-using-HTML-CSS/tree/master|
-| 18    |                                                              | |
+| 17    | Gym website using HTML & CSS                                 | https://github.com/sahilobhrai/Gym-website-using-HTML-CSS/tree/master|
+| 18    | Calculator-using-HTML-CSS-JAVASCRIPT                         | https://github.com/sahilobhrai/Calculator-using-HTML-CSS-JAVASCRIPT |
 | 19    |                                                              | |
 
 
