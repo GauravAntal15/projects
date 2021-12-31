@@ -10,7 +10,7 @@
 | 4     | College Website using HTML,CSS,PHP & JAVASCRIPT              | http://65.1.89.114/dashboard/ |
 | 5     | Image cartoonify                                             | https://github.com/sahilobhrai/Image-cartoonify             |
 | 6     | Covid 19 Prediction                                          | https://github.com/sahilobhrai/Covid-19-Prediction         |
-| 7     | Spotify App using HTML, CSS & JAVASCRIPT                     | https://github.com/sahilobhrai/Twitter-Sentiment-Analysis            |
+| 7     | Spotify App using HTML, CSS & JAVASCRIPT                     | https://github.com/sahilobhrai/Spotify           |
 | 8     | Graphql - Netflix application                                | https://github.com/sahilobhrai/graphql-netflix |
 | 9     | Hadoop                                                       | https://github.com/sahilobhrai/hadoop              |
 | 10    | Scala                                                        | https://github.com/sahilobhrai/scala          |
