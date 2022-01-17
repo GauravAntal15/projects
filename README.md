@@ -24,7 +24,7 @@
 | 18    | Calculator-using-HTML-CSS-JAVASCRIPT                         | https://github.com/sahilobhrai/Calculator-using-HTML-CSS-JAVASCRIPT |
 | 19    | Twitter Sentiment Analysis                                   | https://github.com/sahilobhrai/Twitter-Sentiment-Analysis            |
 | 20    | Animation Card using HTML & CSS                              | http://65.1.89.114/animation%20card/|
-| 21    |         Web scraping using Python                            | https://github.com/sahilobhrai/Web-scraping-using-python|
+| 21    |         Web Scraping using Python                            | https://github.com/sahilobhrai/Web-scraping-using-python|
 | 22    |                                                              | |
 | 23    |                                                              | |
 
