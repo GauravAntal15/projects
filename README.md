@@ -13,7 +13,7 @@
 | 7     | Spotify App using HTML, CSS & JAVASCRIPT                     | https://github.com/sahilobhrai/Spotify           |
 | 8     | Graphql - Netflix application                                | https://github.com/sahilobhrai/graphql-netflix |
 | 9     | Hadoop                                                       | https://github.com/sahilobhrai/hadoop              |
-| 10    | Scala                                                        | https://github.com/sahilobhrai/scala          |
+| 10    | Scraping Website data for Frontent Development               | https://github.com/sahilobhrai/Website-Data-Scraping-using-Python |
 | 11    | House Price Prediction                                       | https://github.com/sahilobhrai/House-Price-Prediction             |
 | 12    | Flash Games using Python                                     | https://github.com/sahilobhrai/flash-games             |
 | 13    | Outlier Detection using Python                               | https://github.com/sahilobhrai/Outlier-Detection            |
@@ -24,8 +24,8 @@
 | 18    | Calculator-using-HTML-CSS-JAVASCRIPT                         | https://github.com/sahilobhrai/Calculator-using-HTML-CSS-JAVASCRIPT |
 | 19    | Twitter Sentiment Analysis                                   | https://github.com/sahilobhrai/Twitter-Sentiment-Analysis            |
 | 20    | Animation Card using HTML & CSS                              | http://65.1.89.114/animation%20card/|
-| 21    |         Web Scraping using Python                            | https://github.com/sahilobhrai/Web-scraping-using-python|
-| 22    |                                                              | |
+| 21    | Web Scraping using Python                                    | https://github.com/sahilobhrai/Web-scraping-using-python|
+| 22    | Scala Codes                                                       | https://github.com/sahilobhrai/scala          |
 | 23    |                                                              | |
 | 24    |                                                              | |
 
