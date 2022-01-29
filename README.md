@@ -28,8 +28,8 @@
 | 22    | Scala Codes                                                  | https://github.com/sahilobhrai/scala          |
 | 23    | Card maker responsive website                                | https://github.com/sahilobhrai/Wedding-card-website|
 | 24    | Preloader for website using HTML,CSS & JS                    | https://github.com/sahilobhrai/Preloader-for-websites|
-| 24    | Weather app using OpenWeather API                            |https://github.com/sahilobhrai/Weather-App/tree/main|
-| 24    |                                                              |                                                  |
+| 25    | Weather app using OpenWeather API                            |https://github.com/sahilobhrai/Weather-App/tree/main|
+| 26    |                                                              |                                                  |
 
 
 ***More Projects coming....!!!***
