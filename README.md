@@ -26,8 +26,8 @@
 | 20    | Animation Card using HTML & CSS                              | http://65.1.89.114/animation%20card/|
 | 21    | Web Scraping using Python                                    | https://github.com/sahilobhrai/Web-scraping-using-python|
 | 22    | Scala Codes                                                  | https://github.com/sahilobhrai/scala          |
-| 23    |  Card maker responsive website                               | https://github.com/sahilobhrai/Wedding-card-website|
-| 24    |                                                              | |
+| 23    | Card maker responsive website                                | https://github.com/sahilobhrai/Wedding-card-website|
+| 24    | Preloader for website using HTML,CSS & JS                    | https://github.com/sahilobhrai/Preloader-for-websites|
 
 
 ***More Projects coming....!!!***
