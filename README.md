@@ -29,7 +29,7 @@
 | 23    | Card maker responsive website                                | https://github.com/sahilobhrai/Wedding-card-website|
 | 24    | Preloader for website using HTML,CSS & JS                    | https://github.com/sahilobhrai/Preloader-for-websites|
 | 25    | Weather app using OpenWeather API                            |https://github.com/sahilobhrai/Weather-App/tree/main|
-| 26    |                                                              |                                                  |
+| 26    |  Image Gallery using HTML, CSS & JS                          | https://github.com/sahilobhrai/Image-gallery-   |
 
 
 ***More Projects coming....!!!***
