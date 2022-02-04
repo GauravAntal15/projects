@@ -33,7 +33,7 @@
 | 27    | Stock Price Web Scraping using Python                        | https://github.com/sahilobhrai/Stock-Price-Scraping/tree/main   |
 | 28    |                                                              | |
 | 29    |                                                              | |
-| 30    |                                                              | |
+
 
 ***More Projects coming....!!!***
 
