@@ -31,7 +31,7 @@
 | 25    | Weather app using OpenWeather API                            | https://github.com/sahilobhrai/Weather-App/tree/main|
 | 26    |  Image Gallery using HTML, CSS & JS                          | https://github.com/sahilobhrai/Image-gallery-   |
 | 27    | Stock Price Web Scraping using Python                        | https://github.com/sahilobhrai/Stock-Price-Scraping/tree/main   |
-| 28    |                                                              | |
+| 28    | Car Price Analysis uses Python                               | https://github.com/sahilobhrai/Car-Price-Prediction|
 | 29    |                                                              | |
 | 30    |                                                              | |
 
