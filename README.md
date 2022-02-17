@@ -34,7 +34,7 @@
 | 28    | Car Price Analysis uses Python                               | https://github.com/sahilobhrai/Car-Price-Prediction|
 | 29    | Ed-Tech Wesbite using HTML,CSS,PHP,JS                        | http://65.1.89.114/edtech%20website/|
 | 30    | Tweeting App with React and Firebase                         | https://sena-tweets.web.app/ |
-| 31    |                                                              | |
+| 31    | FullStack SocialApp using HTML,CSS,PHP,JS,SQL                | http://65.1.89.114/mytweetapp/|
 | 32    |                                                              | |
 
 ***More Projects coming....!!!***
