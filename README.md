@@ -36,7 +36,9 @@
 | 30    | Tweeting App with React and Firebase                         | https://sena-tweets.web.app/ |
 | 31    | FullStack SocialApp using HTML,CSS,PHP,JS,SQL                | http://65.1.89.114/mytweetapp/|
 | 32    | Todo App using PHP,SQL with CRUD operations                  | http://65.1.89.114/todo%20app/|
+| 33    | Titanic-Survival-Classification                               | https://github.com/sahilobhrai/Titanic-Survival-Classification|
 | 33    | Competitive Coding Leetcode                                  | https://github.com/sahilobhrai/competitive-coding|
+
 
 
 ***More Projects coming....!!!***
