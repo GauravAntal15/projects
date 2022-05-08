@@ -38,7 +38,7 @@
 | 32    | Todo App using PHP,SQL with CRUD operations                  | http://65.1.89.114/todo%20app/|
 | 33    | Titanic-Survival-Classification                               | https://github.com/sahilobhrai/Titanic-Survival-Classification|
 | 34    | Competitive Coding Leetcode                                  | https://github.com/sahilobhrai/competitive-coding|
-
+| 35    | Face Detection using OpenCV                                  | https://github.com/sahilobhrai/competitive-coding|
 
 
 ***More Projects coming....!!!***
