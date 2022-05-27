@@ -39,6 +39,8 @@
 | 33    | Titanic-Survival-Classification                              | https://github.com/sahilobhrai/Titanic-Survival-Classification|
 | 34    | Competitive Coding Leetcode                                  | https://github.com/sahilobhrai/competitive-coding|
 | 35    | Face Detection using OpenCV                                  |https://github.com/sahilobhrai/face-detection|
+| 36    | Attendance based Face Detection using OpenCV                 |[https://github.com/sahilobhrai/face-detection]
+
 
 
 ***More Projects coming....!!!***
