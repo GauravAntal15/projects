@@ -40,6 +40,7 @@
 | 34    | Competitive Coding Leetcode                                  | https://github.com/sahilobhrai/competitive-coding|
 | 35    | Face Detection using OpenCV                                  | https://github.com/sahilobhrai/face-detection|
 | 36    | Attendance based Face Detection using OpenCV and Neural Networks | https://github.com/sahilobhrai/Face-Detection-with-Opencv |
+| 37    | React movie filter app using tmdb api                        | https://sprightly-froyo-6a2ba2.netlify.app/ |
 
 
 
